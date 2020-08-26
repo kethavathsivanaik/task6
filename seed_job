@@ -93,7 +93,6 @@ fi''')
     includeCustomMessage(false)
     sendAs(null)
     commitInfoChoice("NONE")
-    credentialsId("Slack Token")
     teamDomain("linuxworldindia")
    }
   }
