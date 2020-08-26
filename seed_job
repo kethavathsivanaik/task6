@@ -91,7 +91,7 @@ fi''')
     startNotification(true)
     includeTestSummary(true)
     includeCustomMessage(false)
-    sendAs(null)
+    sendAs(slack_token)
     commitInfoChoice("NONE")
     teamDomain("linuxworldindia")
    }
